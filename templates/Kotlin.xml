@@ -1,0 +1,7 @@
+<templateSet group="Kotlin">
+  <template name="spek given" value="given(&quot;&quot;)&#10;    {&#10;        on(&quot;&quot;)&#10;        {&#10;            it(&quot;&quot;)&#10;            {&#10;&#10;            }&#10;        }&#10;    }" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
