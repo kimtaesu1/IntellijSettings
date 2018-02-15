@@ -9,4 +9,17 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="test" value="    lateinit var subject: $SUBJECT$&#10;    @Before&#10;    fun setUp() {&#10;        subject = $SUBJECT$()&#10;    }&#10;&#10;    @Test&#10;    fun `$TEST$`() {&#10;&#10;    }" toReformat="false" toShortenFQNames="true">
+    <variable name="SUBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="test mock" value="    @Mock&#10;    lateinit var $NAME$" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
