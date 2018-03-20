@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="disableAnimation" type="PLAIN_TEXT" />
+      <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern="connectedAndroidTest" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="mockmake" type="PLAIN_TEXT" />
