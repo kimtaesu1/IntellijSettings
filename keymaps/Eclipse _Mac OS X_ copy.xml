@@ -1,7 +1,6 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta 8" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="ChangesView.AddUnversioned">
@@ -62,6 +61,7 @@
   <action id="IncrementWindowHeight" />
   <action id="KotlinShellExecute" />
   <action id="Print" />
+  <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="f2" />
