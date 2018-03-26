@@ -106,7 +106,6 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ShowUsages">
