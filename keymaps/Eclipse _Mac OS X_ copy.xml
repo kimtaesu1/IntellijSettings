@@ -90,10 +90,14 @@
   <action id="KotlinShellExecute" />
   <action id="Print" />
   <action id="QuickChangeScheme" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift meta d" />
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
