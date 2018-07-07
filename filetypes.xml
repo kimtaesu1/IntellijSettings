@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="readme.md" type="ModuleMap" />
+      <mapping pattern="expect_sort.json" type="PLAIN_TEXT" />
       <mapping pattern="disableAnimation" type="PLAIN_TEXT" />
       <mapping pattern=".a" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
