@@ -4,32 +4,4 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="spek describe" value="describe(&quot;&quot;)&#10;    {&#10;        it(&quot;&quot;)&#10;        {&#10;&#10;        }&#10;    }&#10;" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
-  <template name="before" value="    lateinit var subject: $SUBJECT$&#10;    @Before&#10;    fun setUp() {&#10;        subject = $SUBJECT$()&#10;    }&#10;&#10;    @Test&#10;    fun `$TEST$`() {&#10;&#10;    }" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="SUBJECT" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
-  <template name="test mock" value="    @Mock&#10;    lateinit var $NAME$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
-  <template name="rule" value="    @get:Rule&#10;    var rxRule = Rx2TestSchedulerRule()&#10;    @get:Rule&#10;    var instantExecutorRule = InstantTaskExecutorRule()" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
-  <template name="test case" value="@Test&#10;    fun ``() {&#10;        &#10;    }" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
 </templateSet>

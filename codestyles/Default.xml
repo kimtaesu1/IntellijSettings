@@ -27,8 +27,6 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
-  <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
@@ -98,9 +96,7 @@
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
     <arrangement>
       <rules>
