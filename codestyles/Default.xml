@@ -40,19 +40,19 @@
     </option>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
-        <package name="android" withSubpackages="true" static="false" />
+        <package name="android" withSubpackages="false" static="false" />
         <emptyLine />
-        <package name="com" withSubpackages="true" static="false" />
+        <package name="com" withSubpackages="false" static="false" />
         <emptyLine />
-        <package name="junit" withSubpackages="true" static="false" />
+        <package name="junit" withSubpackages="false" static="false" />
         <emptyLine />
-        <package name="net" withSubpackages="true" static="false" />
+        <package name="net" withSubpackages="false" static="false" />
         <emptyLine />
-        <package name="org" withSubpackages="true" static="false" />
+        <package name="org" withSubpackages="false" static="false" />
         <emptyLine />
-        <package name="java" withSubpackages="true" static="false" />
+        <package name="java" withSubpackages="false" static="false" />
         <emptyLine />
-        <package name="javax" withSubpackages="true" static="false" />
+        <package name="javax" withSubpackages="false" static="false" />
         <emptyLine />
         <package name="" withSubpackages="true" static="false" />
         <emptyLine />
