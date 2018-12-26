@@ -15,15 +15,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:sanisloandras/GettyImagesGallery.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:kimtaesu/gettyimage.git" />
+          <option name="url" value="git@github.com:kimtaesu/acmicpc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Download" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Project" />
   </component>
 </application>
