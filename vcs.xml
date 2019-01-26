@@ -15,7 +15,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/tyler123/tooconcern.git" />
+          <option name="url" value="git@github.com:kimtaesu/acmicpc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kimtaesu/FlickrAndroid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
