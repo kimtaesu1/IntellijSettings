@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern=".e" type="PLAIN_TEXT" />
       <mapping pattern="expect_sort.json" type="PLAIN_TEXT" />
@@ -17,9 +18,9 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="traineddata" type="PLAIN_TEXT" />
       <mapping ext="mockmake" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <mapping ext="traineddata" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="readme.md" type="ModuleMap" />
     </extensionMap>
